@@ -19,3 +19,4 @@ Instructions:
 8. Adjustment will be made throughout the term
    
 
+<img width="974" alt="Screenshot 2024-02-26 at 5 06 24 PM" src="https://github.com/pyonw/alert_microservice/assets/91231803/e4a514e0-2a70-41bc-8b87-764ac6cb4c14">
